@@ -26,4 +26,31 @@ Links to Google sites:
 19. Savu Mihai Costin - 1213 https://sites.google.com/site/savumihai1111
 20. Raj Kumar - 1213 https://sites.google.com/site/ramitpgw71
 
+-------------------------
+
+06.01.2015
+
+1. Mansouri Mohamad - 1211 https://sites.google.com/site/moudipeas/home
+2. Pripon Miruna - 1211 https://sites.google.com/site/diaghyron
+3. Dumitru Alin - 1211 https://sites.google.com/site/kardashiandoubleteam
+4. Nasoi Radu - 1211 https://sites.google.com/site/iitsiteradunasoi
+5. Andrei Tudor Enache - 1211 https://sites.google.com/site/andreiwebsite0/
+6. Armășescu Magda-Elena - 1211 https://sites.google.com/site/presentationandcv16/
+7. Dibu Maria - 1211 https://sites.google.com/site/dibumaria1995
+8. Carol Ioan Mihailescu - 1211 https://sites.google.com/site/iticsite
+9. Alexandra Bulac - 1211 https://sites.google.com/site/iitalexandrab
+10. Etinyene Elisha Eduok - 1211 https://sites.google.com/site/etieduok
+11. Musa Saheed - 1211 https://sites.google.com/site/musagambarykoko
+12. Alina Capota - 1211 https://sites.google.com/site/alinacapota
+13. Taloi Bogdan - 1211 https://sites.google.com/site/exodusdevelopmentblog/
+14. Diaconu Ana - 1211 https://sites.google.com/site/ani0912md/
+15. Sileanu Cosmina - 1211 https://sites.google.com/site/cosmiinnas/
+16. Ilascu Andrei - 1211 https://sites.google.com/site/iitandrei1995/
+17. Ene Razvan - 1211 https://sites.google.com/site/vernonsemporium
+18. Popescu Cristian - 1211 https://sites.google.com/site/krebonsarena
+19. Spoiala Madalina - 1211 https://sites.google.com/site/ifnt1392
+20. Petre Laura - 1211 https://sites.google.com/site/petrelaurassite
+21. Stanciu Marius - 1211 https://sites.google.com/site/stanciumariusx
+
+
 
