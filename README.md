@@ -51,6 +51,9 @@ Links to Google sites:
 19. Spoiala Madalina - 1211 https://sites.google.com/site/ifnt1392
 20. Petre Laura - 1211 https://sites.google.com/site/petrelaurassite
 21. Stanciu Marius - 1211 https://sites.google.com/site/stanciumariusx
+22. Dibla Radu - 1212 https://sites.google.com/site/radusdomain
+23. Barbu Denis-Cosmin - 1212 https://sites.google.com/site/barbudenis94
+24. DENISA-GABRIELA OLTEANU - 1212 https://sites.google.com/site/dzenicsu
 
 
 
