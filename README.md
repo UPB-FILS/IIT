@@ -55,5 +55,11 @@ Links to Google sites:
 23. Barbu Denis-Cosmin - 1212 https://sites.google.com/site/barbudenis94
 24. DENISA-GABRIELA OLTEANU - 1212 https://sites.google.com/site/dzenicsu
 
+-------------------------
 
+06.01.2015
 
+1. Birta Ioana - 1214 https://sites.google.com/site/birtaioana1214
+2. Haddad Antonia-Nancy - 1214 https://sites.google.com/site/kawaiicupcakemuffinlover
+3. Buliga Diana-Ioana - 1214 https://sites.google.com/site/dianabuliga1214
+4. Ureche Andreea Cristina - 1214 https://sites.google.com/site/andreeaitlab
