@@ -64,3 +64,6 @@ Links to Google sites:
 3. Buliga Diana-Ioana - 1214 https://sites.google.com/site/dianabuliga1214
 4. Ureche Andreea Cristina - 1214 https://sites.google.com/site/andreeaitlab
 5. Abdullah saadaldin ahmed moussa - 1213 https://sites.google.com/site/iitabdullahmoussa
+6. Soare Dragos-Gabriel - 1213 https://sites.google.com/site/unknownnoname9999x
+7. Petre Bogdan-Alexandru - 1213 https://sites.google.com/site/bogdan221995
+8. Mario Negrescu - 1213 https://sites.google.com/site/lab5iit2014
