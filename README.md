@@ -67,3 +67,4 @@ Links to Google sites:
 6. Soare Dragos-Gabriel - 1213 https://sites.google.com/site/unknownnoname9999x
 7. Petre Bogdan-Alexandru - 1213 https://sites.google.com/site/bogdan221995
 8. Mario Negrescu - 1213 https://sites.google.com/site/lab5iit2014
+9. Gabriela Prundaru - 1213 https://sites.google.com/site/ittgabriela
