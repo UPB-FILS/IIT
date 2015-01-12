@@ -68,3 +68,9 @@ Links to Google sites:
 7. Petre Bogdan-Alexandru - 1213 https://sites.google.com/site/bogdan221995
 8. Mario Negrescu - 1213 https://sites.google.com/site/lab5iit2014
 9. Gabriela Prundaru - 1213 https://sites.google.com/site/ittgabriela
+
+
+-------------------------
+
+12.01.2015
+1. Voda Victor Stefan - 1213 https://sites.google.com/site/victorvoda94
