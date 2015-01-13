@@ -85,3 +85,10 @@ Links to Google sites:
 1. Joga Petrut - 1211 http:/petrutjoga.wix.com/petrut
 2. Bucur Razvan - 1211 https://sites.google.com/site/razvanssite/iithw
 3. Jipa Danut - 1211 https://sites.google.com/site/3cars1garage
+4. Neagu Iuliana - 1212 https://sites.google.com/site/siteulliei
+5. Amalia Manolache - 1212 https://sites.google.com/site/amaliamanolache03
+6. Tiprigan Bogdan - 1212 https://sites.google.com/site/tipriganbogdan20
+7. Isac Dan Mihai - 1212 https://sites.google.com/site/isacdanmiihail
+8. Baban Mustafa - 1212 https://sites.google.com/site/babancop
+9. Gheorghiu Ana - 1212 https://sites.google.com/site/gameofanna
+
