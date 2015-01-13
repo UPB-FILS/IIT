@@ -5,6 +5,8 @@ IIT English Stream 1st year
 
 Links to Google sites:
 
+16.12.2014
+
 1. Octavia Scarlatescu - 1211: https://sites.google.com/site/iithomeworks/
 2. Tiberiu-Andrei Dumitru - 1211: https://sites.google.com/site/introductioninit/
 3. Stefan Corici - 1211: https://sites.google.com/site/stefaniitcelmaitare
@@ -75,3 +77,9 @@ Links to Google sites:
 12.01.2015
 
 1. Voda Victor Stefan - 1213 https://sites.google.com/site/victorvoda94
+
+-------------------------
+
+13.01.2015
+
+1. Joga Petrut - 1211 http:/petrutjoga.wix.com/petrut
