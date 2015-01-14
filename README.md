@@ -103,3 +103,9 @@ Links to Google sites:
 4. Mazare Radu-Mircea - 1244 https://sites.google.com/site/mazaremircea
 5. Paduraru Karla - 1214 https://sites.google.com/site/candyshop1564
 6. Titescu Cristina - 1214 https://sites.google.com/site/borntobewildkarla
+7. Eduard Durbaca - 1214 https://sites.google.com/site/technologyit21
+8. Popa George-Catalin - 1213 https://sites.google.com/site/polsalstuff
+9. Mafteiu Andra Carmen - 1213 https://sites.google.com/site/iitandra00
+10. Runcan Denisa Lorena - 1213 https://sites.google.com/site/iitdenisa
+11. Dumitrescu Tudor Andrei - 1213 https://sites.google.com/site/ITtudor95
+12. Hammami  Amine - 1213 https://sites.google.com/site/iitaminehammami
