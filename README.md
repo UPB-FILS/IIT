@@ -92,3 +92,14 @@ Links to Google sites:
 8. Baban Mustafa - 1212 https://sites.google.com/site/babancop
 9. Gheorghiu Ana - 1212 https://sites.google.com/site/gameofanna
 
+
+-------------------------
+
+14.01.2015
+
+1. Iulia Caniola - 1214 https://sites.google.com/site/iuliacaniola123
+2. Simona Paunescu - 1214 https://sites.google.com/site/simonap111000
+3. Florentina Craciun - 1214 https://sites.google.com/site/craciunflorentina11
+4. Mazare Radu-Mircea - 1244 https://sites.google.com/site/mazaremircea
+5. Paduraru Karla - 1214 https://sites.google.com/site/candyshop1564
+6. Titescu Cristina - 1214 https://sites.google.com/site/borntobewildkarla
