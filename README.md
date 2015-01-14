@@ -98,7 +98,7 @@ Links to Google sites:
 14.01.2015
 
 1. Iulia Caniola - 1214 https://sites.google.com/site/iuliacaniola123
-2. Simona Paunescu - 1214 https://sites.google.com/site/simonap111000
+2. Simona Paunescu - 1214 https://sites.google.com/site/simona111000
 3. Florentina Craciun - 1214 https://sites.google.com/site/craciunflorentina11
 4. Mazare Radu-Mircea - 1244 https://sites.google.com/site/mazaremircea
 5. Paduraru Karla - 1214 https://sites.google.com/site/candyshop1564
