@@ -122,3 +122,4 @@ Links to Google sites:
 5. Istodor Andrei-Stefan - 1213 https://sites.google.com/site/fotballacoltulstrazii
 6. Popescu Flavius-Andrei - 1213 https://sites.google.com/site/masinisportdingaraj
 7. Ungureanu Alexandru - 1213 https://sites.google.com/site/metallicamegadeeth
+8. Tabacaru Alexandra - 1213 https://sites.google.com/site/alexandratabacaru1503
