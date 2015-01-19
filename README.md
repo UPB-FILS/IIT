@@ -123,3 +123,41 @@ Links to Google sites:
 6. Popescu Flavius-Andrei - 1213 https://sites.google.com/site/masinisportdingaraj
 7. Ungureanu Alexandru - 1213 https://sites.google.com/site/metallicamegadeeth
 8. Tabacaru Alexandra - 1213 https://sites.google.com/site/alexandratabacaru1503
+
+=====================================================
+
+Links to scripting homework:
+
+20.01.2015
+
+Group 1212
+
+1. Barbu Denis - https://github.com/BarbuDenis/tema
+2. Popa Sergiu - https://github.com/Dovahguinn/IIT
+3. Neagu Iuliana - https://github.com/dudis32/IIT/blob/master/script.sh
+4. Mustafa Baban - https://gist.github.com/M-Baban/c0d7be38e12f4af1ca4a
+5. Zamfira Mircea - https://github.com/MirceaZ/IITLAB
+6. Botezatu Laurentiu - https://github.com/laurbtzt/IIT/blob/master/script.sh
+7. Manolache Amalia - https://github.com/AmaliaGabrielaManolache/IIT/blob/master/script.sh
+8. Tudor Cosmin - https://github.com/luxdefinesme/LaIIT
+9. Vlad Ana-Maria - https://github.com/annanicolvlad/tema-iit
+10. Rujan Diana - https://github.com/DianaRujan/iit-homework
+11. Sodolescu Rares - https://github.com/ritzanu90/bender
+12. Gheorgiu Ana - https://github.com/AnaGheorghiu/IIT-HW
+13. Dima Bogdan - https://github.com/DimaBogdan/Homework-IIT/tree/master
+14. Georgescu Vlad - https://github.com/GeorgescuVlad/IIT/tree/master
+15. Darie Mihai - https://github.com/darkmihai52/IIT-MIHAI-HW/blob/master/script.sh
+16. Dibla Radu - https://github.com/Radudan007/Radu
+17. Amet Tarkan - https://github.com/amettarkan/iitlab-hw
+18. Ion Ana - https://github.com/rockana96/pinkfloyd
+19. Posdarascu Daniel - https://github.com/eudanip/Script/tree/master
+20. Olteanu Denisa - https://github.com/denisa-
+21. Neculaescu Teodor - https://github.com/NeculaescuTheodor/IIT-HW
+22. Grigorescu Calin - https://github.com/calingrigorescu/Tema-IIT
+23. Mazeh Youssef - https://gist.github.com/youssefmaz/526c260cd7226d7b1203
+24. Boasca Alexandru - http://hastebin.com/hiyawawaja.bash
+25. Enache Adrian - https://github.com/EnacheAdrian/IIT
+26. Predescu Bogdan - https://github.com/PredescuBogdan/script-iit
+27. Tiprigan Bogdan - https://github.com/tipriganbogdan/IIT-HW
+28. Voicu Stefan - https://github.com/stefanvoicu/IIT/blob/master/script.sh
+
