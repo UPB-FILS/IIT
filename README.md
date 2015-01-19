@@ -109,3 +109,16 @@ Links to Google sites:
 10. Runcan Denisa Lorena - 1213 https://sites.google.com/site/iitdenisa
 11. Dumitrescu Tudor Andrei - 1213 https://sites.google.com/site/ITtudor95
 12. Hammami  Amine - 1213 https://sites.google.com/site/iitaminehammami
+
+
+-------------------------
+
+19.01.2015
+
+1. Moraru Toma - 1213 https://sites.google.com/site/laboratoriitmorarut
+2. Boncoi Emanuel - 1213 https://sites.google.com/site/emanueltutorialsite
+3. Orzata Roxana - 1213 https://sites.google.com/site/theuniversandyou
+4. Zafiu Vlad-Andrei - 1213 https://sites.google.com/site/zafiuvladandrei13
+5. Istodor Andrei-Stefan - 1213 https://sites.google.com/site/fotballacoltulstrazii
+6. Popescu Flavius-Andrei - 1213 https://sites.google.com/site/masinisportdingaraj
+7. Ungureanu Alexandru - 1213 https://sites.google.com/site/metallicamegadeeth
