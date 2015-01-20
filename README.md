@@ -161,3 +161,13 @@ Group 1212
 27. Tiprigan Bogdan - https://github.com/tipriganbogdan/IIT-HW
 28. Voicu Stefan - https://github.com/stefanvoicu/IIT/blob/master/script.sh
 
+-----
+
+Googole sites
+
+20.01.2015
+
+1. Malatov Alexandra 1211 - https://sites.google.com/site/alexandrasupersite
+2. Scurtu Ioan Adrian 1211 - https://sites.google.com/site/iithomew
+3. Yuriy Trofymenko 1211 -  https://sites.google.com/site/yuriytrofymenko
+4. Saif Mokhloss 1211 - https://sites.google.com/site/iitprog12
