@@ -155,7 +155,7 @@ Group 1212
 21. Neculaescu Teodor - https://github.com/NeculaescuTheodor/IIT-HW
 22. Grigorescu Calin - https://github.com/calingrigorescu/Tema-IIT
 23. Mazeh Youssef - https://gist.github.com/youssefmaz/526c260cd7226d7b1203
-24. Boasca Alexandru - http://hastebin.com/hiyawawaja.bash
+24. Boasca Alexandru - http://github.com/alexx95/bashhw
 25. Enache Adrian - https://github.com/EnacheAdrian/IIT
 26. Predescu Bogdan - https://github.com/PredescuBogdan/script-iit
 27. Tiprigan Bogdan - https://github.com/tipriganbogdan/IIT-HW
