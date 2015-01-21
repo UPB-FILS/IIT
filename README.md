@@ -82,7 +82,7 @@ Links to Google sites:
 
 13.01.2015
 
-1. Joga Petrut - 1211 http:/petrutjoga.wix.com/petrut
+1. Joga Petrut - 1211 http://petrutjoga.wix.com/petrut
 2. Bucur Razvan - 1211 https://sites.google.com/site/razvanssite/iithw
 3. Jipa Danut - 1211 https://sites.google.com/site/3cars1garage
 4. Neagu Iuliana - 1212 https://sites.google.com/site/siteulliei
