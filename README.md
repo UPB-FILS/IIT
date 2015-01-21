@@ -160,6 +160,34 @@ Group 1212
 26. Predescu Bogdan - https://github.com/PredescuBogdan/script-iit
 27. Tiprigan Bogdan - https://github.com/tipriganbogdan/IIT-HW
 28. Voicu Stefan - https://github.com/stefanvoicu/IIT/blob/master/script.sh
+29. Angheluta Mihaela - https://github.com/mmeelloo94/ANGHELUTA-MIHAELLA
+
+
+Group 1211
+
+1. Taloi Bogdan - https://github.com/bogdanul/IITHW
+2. Ilascu Andrei - https://github.com/Andreylyon/IIT-hw/blob/master/myscript.sh
+3. Popescu Cristian - https://github.com/Krebons/Scriptus
+4. Petre Laura-https://github.com/LApetre/H/blob/master/script.sh
+5. Spoiala Madalina-https://github.com/MadelaineS/file-size/blob/master/filesizz.sh
+6. Nasoi Radu - https://github.com/RaduNasoi/IIT
+7. Diaconu Ana Maria - https://github.com/amd0912/iithw/blob/master/homeworkiit.sh
+8. Capota Alina - https://github.com/AlinaCapota/Homework/blob/master/Homework.sh
+9. Bulac Alexandra - https://github.com/AlexandraBulac/HW/blob/master/IIT
+10. Enache Andrei - https://github.com/AndreiEnache/IIT_SCRIPT
+11. Pripon Miruna - https://github.com/MirunaPripon
+12. Ene Razvan - https://github.com/V3rnon/IIT-homework
+13. Sileanu Cosmina - https://github.com/SileanuCosmina/Homework/tree/master
+14. Corici Stefan 1211A - https://github.com/stefic/IIT-Homework
+15. Cristea Alice Filip 1211A - https://github.com/Alice95/IIT-script
+16. Deliu Ovidiu 1211A - https://github.com/OvidiuDeliu/-IIT
+17. Eduok Etinyene Elisha 1211A - https://github.com/Etinyene/iit
+18. Mihailescu Carol Ioan 1211A - https://github.com/Carol19/scriptz
+19. Muhammet Matiyev 1211A - https://github.com/matiyev/iitbash
+20. Okam Chinedu 1211A - https://github.com/cjayy/iitt
+21. Perniu Alexandru Petrut 1211A - https://github.com/PerniuPetrut/IIT/blob/master/iit
+22. Scarlatescu Octavian 1211A - https://github.com/ScxTav/IIT
+
 
 -----
 
