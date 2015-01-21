@@ -163,7 +163,7 @@ Group 1212
 
 -----
 
-Googole sites
+Google sites
 
 20.01.2015
 
@@ -171,5 +171,8 @@ Googole sites
 2. Scurtu Ioan Adrian 1211 - https://sites.google.com/site/iithomew
 3. Yuriy Trofymenko 1211 -  https://sites.google.com/site/yuriytrofymenko
 4. Saif Mokhloss 1211 - https://sites.google.com/site/iitprog12
-5. Enache Adrian - 1212 https://sites.google.com/site/enacheadrian195
+5. Enache Adrian 1212 - https://sites.google.com/site/enacheadrian195
+6. Perniu Alexandru Petrut 1211 - https://sites.google.com/site/pernualexandrupetrut
+7. Mahmoodi Pooya 1211 - https://sites.google.com/site/minitelnetwork
+8. Okam Chinedu 1211 - https://sites.google.com/site/cjayokam
 
